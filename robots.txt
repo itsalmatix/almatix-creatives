@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://itsalmatix.github.io/almatix-creatives/sitemap.xml
